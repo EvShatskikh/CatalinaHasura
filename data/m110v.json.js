@@ -1,0 +1,1 @@
+window.repositoryObject = {"title_prefix":"Survey","custom_fields":[],"views":[{"id":"m110v3844","name":"public.survey_view","type":"VIEW","subtype":"VIEW","is_user_defined":false,"custom_fields":{"Status":{"value":"","type":"LIST_CLOSED"}}}],"object_id":"m110v"};
