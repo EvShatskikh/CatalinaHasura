@@ -1,0 +1,1 @@
+window.repositoryObject = {"title_prefix":"Call","custom_fields":[],"views":[{"id":"m101v3833","name":"public.call_incoming_count","type":"VIEW","subtype":"VIEW","is_user_defined":false,"custom_fields":{"Status":{"value":"","type":"LIST_CLOSED"}}}],"object_id":"m101v"};

@@ -1,0 +1,1 @@
+window.repositoryObject = {"title_prefix":"OrgStructure","custom_fields":[],"views":[{"id":"m106v3840","name":"public.org_structure_m1_m2","type":"VIEW","subtype":"VIEW","is_user_defined":false,"custom_fields":{"Status":{"value":"","type":"LIST_CLOSED"}}}],"object_id":"m106v"};
